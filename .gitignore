@@ -1,0 +1,12 @@
+# Ignore everything except docs and README
+*
+
+# Allow docs folder
+!docs/
+!docs/**
+
+# Allow README
+!README.md
+
+# Allow gitignore itself
+!.gitignore
